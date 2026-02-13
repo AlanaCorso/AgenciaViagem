@@ -1,10 +1,10 @@
 # AgenciaViagem
 <p align="center">
-  <img src="../AgenciaViagem/img/Captura de tela 2026-02-13 154542.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
+  <img src="Captura de tela 2026-02-13 154542.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
 </p>
 
 <p align="center">
-  <img src="../AgenciaViagem/img/Captura de tela 2026-02-13 154630.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
+  <img src="Captura de tela 2026-02-13 154630.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
